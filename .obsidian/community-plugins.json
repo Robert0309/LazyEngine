@@ -1,7 +1,6 @@
 [
   "obsidian-custom-frames",
   "obsidian-day-planner",
-  "obsidian-filename-heading-sync",
   "obsidian-git",
   "obsidian-languagetool-plugin",
   "obsidian-math-plus",
@@ -9,5 +8,12 @@
   "recent-files-obsidian",
   "obsidian-vimrc-support",
   "dataview",
-  "ink"
+  "ink",
+  "obsidian42-brat",
+  "obsidian-angry-reviewer",
+  "easy-typing-obsidian",
+  "copilot-auto-completion",
+  "terminal",
+  "obsidian-completr",
+  "obsidian-excalidraw-plugin"
 ]

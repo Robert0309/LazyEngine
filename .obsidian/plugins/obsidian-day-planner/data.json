@@ -27,14 +27,7 @@
   "pluginVersion": "0.27.0",
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
-  "icals": [
-    {
-      "name": "Jro",
-      "email": "jro0309@gmail.com",
-      "url": "https://calendar.google.com/calendar/embed?src=jro0309%40gmail.com&ctz=Africa%2FJohannesburg",
-      "color": "#ffffff"
-    }
-  ],
+  "icals": [],
   "colorOverrides": [],
   "releaseNotes": true,
   "taskStatusOnCreation": " ",
